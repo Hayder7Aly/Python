@@ -1,0 +1,5 @@
+
+given statement!
+First number is : 3
+Second number is : 3
+Sum of both number is : 6

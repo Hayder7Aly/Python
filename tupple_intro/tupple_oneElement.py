@@ -1,0 +1,7 @@
+n=int(input('Enter a number :'))
+n2=(n,)
+print(n2)
+name=input('Enter your name :')
+name2=(name,)
+print(name2)
+input()

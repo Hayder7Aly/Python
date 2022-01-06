@@ -1,0 +1,13 @@
+n=input('Enter 1st name :')
+n2=input('Enter 2nd name :')
+n3=input('Enter 3rd name :')
+n4=[n,n2,n3]
+print(n4)
+n_1=input('Enter 1st name :')
+n_2=input('Enter 2nd name :')
+n_3=input('Enter 3rd name :')
+n_4=(n_1,n_2,n_3)
+print(n_4)
+n4.append(n_4)
+print(n4)
+input()

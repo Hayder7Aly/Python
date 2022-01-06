@@ -1,0 +1,7 @@
+# d=dict.fromkeys(('name','age'),'unknown')
+# print(d)
+key=input('Enter 1st key :')
+key2=input('Enter 2nd key :')
+d=dict.fromkeys((key,key2),'unknown')
+print(d)
+input()

@@ -1,0 +1,5 @@
+print('series of math :\tx1+x2+x3..........')
+x=int(input('Enter the value of x :'))
+n=int(input('Enter the value of n :'))
+print('Result is :',x**n)
+input()

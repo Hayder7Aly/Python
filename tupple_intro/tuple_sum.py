@@ -1,0 +1,6 @@
+n=int(input('Enter 1st number :'))
+n2=int(input('Enter 2nd number :'))
+n3=int(input('Enter 3rd number :'))
+n4=(n,n2,n3)
+print('The sum of three number is :',sum(n4))
+input()

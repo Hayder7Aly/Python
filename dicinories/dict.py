@@ -1,0 +1,5 @@
+name=input("Enter your name :")
+age=int(input('Enter your age :'))
+user_info=dict(name=name,age=age)
+print(user_info)
+input()

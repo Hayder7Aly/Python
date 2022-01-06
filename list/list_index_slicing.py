@@ -1,0 +1,10 @@
+name=input('Enter 1st string :')
+name2=input('Enter 2nd string :')
+name3=input('Enter 3rd string :')
+name4=[name,name2,name3]
+print('remember which word stop +1 add')
+char=int(input('Which char to start print 0 to 2 :'))
+char2=int(input('And char to stop the print  :'))
+print('remember which word stop +1 add')
+print(name4[char:char2])
+input()

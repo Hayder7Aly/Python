@@ -1,0 +1,9 @@
+It is not important to understand a problem.
+Before jumping into the solution.
+A well-defined a problem is one that does not 
+contain ambiguites.
+It is easy to understand and solve .
+Given a problem statement first we need to see
+whether the problem is defined well or not.
+code nothing lies .
+But some times we can wrong coding.

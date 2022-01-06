@@ -1,0 +1,5 @@
+name=input('Enter a string:')
+name2=input('enter a character you want to count :')
+name3=name.upper().count(name2.upper())
+print('This character ',name2,'repeats in ',name3,'times')
+input()

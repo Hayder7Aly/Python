@@ -1,0 +1,4 @@
+haider,100
+ali,399
+farman,38949
+asad,2348

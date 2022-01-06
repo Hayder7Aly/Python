@@ -1,0 +1,5 @@
+user=int(input('Enter the range of number :'))
+range_1=list(range(1,user+1))
+list_1=list(map(lambda a:a**2,range_1))
+print(list_1)
+input()

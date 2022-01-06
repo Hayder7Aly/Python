@@ -1,0 +1,8 @@
+n1=int(input('Enter 1st number :'))
+n2=int(input('Enter 2nd numbe :'))
+n3=int(input('Enter 3rd number '))
+n4=(n1,n2,n3)
+print(n4)
+print('maximum number in tuple :',max(n4))
+print('minimum number in tuple :',min(n4))
+input()

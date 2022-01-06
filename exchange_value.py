@@ -1,0 +1,5 @@
+n=int(input('Enter 1st number :'))
+n2=int(input('Enter 2nd number :'))
+print('value of 1st number is change :',n2)
+print('value of 2nd number is change :',n)
+input()

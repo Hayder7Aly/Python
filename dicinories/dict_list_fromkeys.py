@@ -1,0 +1,5 @@
+name=input('Enter the 1st key :')
+name2=input('Enter the 2nd key :')
+d=dict.fromkeys([name,name2],['unknown','unknown'])
+print(d)
+input()

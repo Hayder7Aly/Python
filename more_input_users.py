@@ -1,0 +1,5 @@
+name,age,father_name=input('enter your name,age,father name :').split()
+print('hello'  ,name)
+print('your age is :',age)
+print('your father name is :',father_name)
+input()

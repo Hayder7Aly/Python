@@ -1,0 +1,5 @@
+print('\t\t\tMULTIPLICATION')
+num=float(input('Enter 1st Number :'))
+num2=float(input('Enter 2nd Number :'))
+print('THE MULTIPLICATION OF',num,'and',num2,'is :',num*num2)
+input('Thank You!!!!')

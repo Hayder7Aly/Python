@@ -1,0 +1,8 @@
+Sum of 150 and 250 is :400
+Sum of 10000 and 20000 is :30000
+Sum of 3 and 5 is :8
+Sum of 2 and -5 is :-3
+Sum of -6 and -6 is :-12
+Sum of 3 and 9 is :12
+Sum of 349 and 39 is :388
+Sum of 3884 and 8303 is :12187
